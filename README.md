@@ -1,3 +1,4 @@
 # CTDL
 # Tuan 1
-# aa
+# Tuan 2
+# assignment 1 update 28/8/2021

@@ -134,4 +134,5 @@ int main()
     cout << countWaySumOfSquare(100);
     cout << endl;
     cout << "Done!";
+    return 1;
 }
